@@ -1,0 +1,16 @@
+Script started on 2023-02-17 15:38:11-08:00
+]0;edilin@WWWSTU-P01:~/ceng231/hw2[edilin@WWWSTU-P01 hw2]$ exitvi pipe.c[3P./pipe pipe.cls[Kvim pipe.c[4Pcd hw2ceng231~ceng231/bin/listfiles.py[3Pturnin.sh[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgcc -ansi -Wall -o pipe[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K pipe.c -ansi 0[K-Wall -o pipe
+]0;edilin@WWWSTU-P01:~/ceng231/hw2[edilin@WWWSTU-P01 hw2]$ ./pipe
+Please enter the inner radius of the pipe (r): 5.32  2
+Please enter the outer radius of the pipe (R): 6.2
+Please enter the length of the pipe (L): 6
+The thickness of the pipe is: 1.000000
+The volume of the pipe is: 214.884796
+Surface area of the inner pipe: 196.035217
+Surface area of the outer pipe: 233.734283
+Surface area of the rings: 71.628265
+The total surface area of the pipe: 501.397766
+]0;edilin@WWWSTU-P01:~/ceng231/hw2[edilin@WWWSTU-P01 hw2]$ exit
+exit
+
+Script done on 2023-02-17 15:39:08-08:00
