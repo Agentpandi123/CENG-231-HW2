@@ -1,0 +1,3 @@
+In the file pipe.c, I first asked the user for the inner radius, outer radius, and the length.  I then calculated the volume, and thickness of the pipe.  Finally, I printed statements that told the user what the
+volume and thickness were.  I then went back into the file later on to add on finding the total surface area.  This was more complicated because I had to find the surface area of both the outer and inner pipe as 
+well as the rings.  I also had to multiply the surface area of the rings by 2 because there is two sides to a pipe and printed that.  After we found that, I had to calculate the total surface area with the equationgiven to us. 
